@@ -1,0 +1,16 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.card {
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+    min-height: 400px; /* Ajusta la altura mínima de la tarjeta */
+}
+
+#result-container {
+    background-size: cover;
+    background-position: center;
+    word-wrap: break-word;
+    height: auto;
+    flex-grow: 1; 
+}
